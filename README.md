@@ -240,7 +240,7 @@
             <ul>
                 <li><a href="#historia">História</a></li>
                 <li><a href="#recursos">Recursos</a></li>
-                <li><a href="#jogar">Jogue</a></li>
+                <li><a href="#jogar">Informações</a></li>
             </ul>
         </nav>
     </header>
